@@ -11,28 +11,28 @@ const App = () => {
       name: 'T-shirt',
       description: 'A comfortable and stylish T-shirt.',
       price: 499,
-      image: 'public/images/pngegg.png'
+      image: 'images/pngegg.png'
     },
     {
       id: 2,
       name: 'Cap',
       description: 'A cool cap for your daily use.',
       price: 399,
-      image: 'public/images/pngegg (1).png'
+      image: 'images/pngegg (1).png'
     },
     {
       id: 3,
       name: 'Mugs',
       description: 'A mug for your coffee and tea.',
       price: 299,
-      image: 'public/images/pngegg (2).png'
+      image: 'images/pngegg (2).png'
     },
     {
       id: 4,
       name: 'Samsung laptop',
       description: 'A high-performance laptop from Samsung.',
       price: 7999,
-      image: 'public/images/laptop-10693.png'
+      image: 'images/laptop-10693.png'
     }
 
   ];
