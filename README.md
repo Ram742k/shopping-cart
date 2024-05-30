@@ -50,7 +50,7 @@ This project is a simple shopping cart application built with React and Bootstra
 
 ## 🌐 Demo
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://shopping-cart-ram.netlify.app/)
 
 ## 🙏 Acknowledgements
 
