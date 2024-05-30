@@ -52,9 +52,7 @@ This project is a simple shopping cart application built with React and Bootstra
 
 [Live Demo](https://shopping-cart-ram.netlify.app/)
 
-## 🙏 Acknowledgements
 
-This project was inspired by the [Shop Homepage](https://startbootstrap.com/previews/shop-homepage) design from Start Bootstrap.
 
 
 ## 📬 Contact
@@ -62,6 +60,4 @@ This project was inspired by the [Shop Homepage](https://startbootstrap.com/prev
 - **📧 Email**: [ramkumar742k@gmail.com](mailto:ramkumar742k@gmail.com)
 - **💼 LinkedIn**: [Ramkumar Sundaram](https://www.linkedin.com/in/ramkumar-sundaram/)
 
----
 
-Made with ❤️ by Ramkumar
